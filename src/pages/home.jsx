@@ -4,7 +4,9 @@ import IconSideBar from '../sidebars/iconSideBar';
 import Typewriter from '../components/Typewriter';
 import Buttons from '../sidebars/button';
 import Introduction from '../sidebars/Introduction';
+
 import '../App.css';
+import About from './about_us';
 
 function Home() {
   const staticText = ' ';
@@ -37,6 +39,9 @@ function Home() {
       </div>
       <div className="buttons-wrapper">
         <Buttons />
+      </div>
+      <div className="about_pos">
+        <About />
       </div>
    </>
   );

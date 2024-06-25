@@ -1,6 +1,6 @@
 import React from 'react';
-import { IonIcon } from '@ionic/react';
-import { logoGithub } from 'ionicons/icons';
+// import { IonIcon } from '@ionic/react';
+// import { logoGithub } from 'ionicons/icons';
 import { FaGithub, FaWhatsapp, FaFacebook, FaTelegram, FaInstagram, FaLinkedin } from 'react-icons/fa';
 import '../App.css';
 
